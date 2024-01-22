@@ -1,2 +1,2 @@
 # Banglore_House_Price
-new repo
+A regression model to predict prices based on multiple factors
